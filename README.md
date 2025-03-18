@@ -7,6 +7,7 @@ This project was completed as part of a **PwC Virtual Internship**.
 
 ## Dataset
 The dataset contains customer details, marketing interactions, and economic indicators. The target variable is whether a customer subscribed to a term deposit.
+Data is from UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ## Process Flowchart
 ```plaintext
